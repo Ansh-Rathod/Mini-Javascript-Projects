@@ -1,0 +1,16 @@
+body {
+  background-color: #0d0106;
+  color: #57c4ec;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+  font-family: "Roboto", "San Francisco", helvetica, arial, sans-serif;
+}
+
+p {
+  font-size: 4rem;
+}
